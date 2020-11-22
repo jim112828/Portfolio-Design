@@ -2,7 +2,6 @@
 
 Trading with recurrent actor-critic reinforcement learning - check [paper](https://arxiv.org/abs/2002.11523) and more detailed old [report]  (https://drive.google.com/file/d/1PK7a8pfZGrQs6WfVO-kNdgNOfvkdi5CW/view?usp=sharing)  
 
-![Full_UML](supply_materials/Full_UML.png)  
 
 # What is included?  
 This repo includes implementation of Deep Recurrent Q Network (DRQN), Asynchronous Advantage Actor Critic (A3C), and Proximal Policy Optimization. All implementations are tested on Mac OS & Google Colab Cloud environment. Please be aware that all of the codes are still in the development stage.  
@@ -27,13 +26,11 @@ Company Description:
 # Results  
 
 <div align="center">
-<img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/plt__signal.png" width="420" alt= "Sell/Buy Signal" />
+<img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/plt__signal.png" width="800" alt= "Sell/Buy Signal" />
 </div>
 
 <div align="center">
-<img src="
-https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/training_plot.png
-" width="420" alt= "Training Result" />
+<img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/training_plot.png" width="800" alt= "Training Result" />
 </div>
 
 
