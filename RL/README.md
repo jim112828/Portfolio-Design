@@ -1,7 +1,6 @@
 # A3C Deep Reinforcement Learning - (Asynchronous Advantage Actor-Critic)  
 
-<p align="center"> Trading Robot with reinforcement learning 
-</p>
+Trading Robot with reinforcement learning    
 
 <div align="center">
 <img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/Full_UML.png" width="700" alt= "Reinforcement Learning" />
@@ -52,22 +51,22 @@ Company Description:
 
 # Results  
 
-Candlestick   
+     
 <div align="center">
 <img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/Candlestick.png" width="800" alt= "Candlestick" />
 </div>
 
-Training Result   
+    
 <div align="center">
 <img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/training_plot.png" width="800" alt= "Training Result" />
 </div>
 
-Sell/Buy Signal    
+     
 <div align="center">
 <img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/plt__signal.png" width="800" alt= "Sell/Buy Signal" />
 </div>
 
-Absolute Profit    
+      
 <div align="center">
 <img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/plt__absolute_profit.png" width="800" alt= "Absolute Profit" />
 </div>
