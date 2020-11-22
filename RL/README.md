@@ -1,10 +1,27 @@
 # A3C Deep Reinforcement Learning - (Asynchronous Advantage Actor-Critic)  
 
-Trading with recurrent actor-critic reinforcement learning - check [paper](https://arxiv.org/abs/2002.11523) and more detailed old [report]  (https://drive.google.com/file/d/1PK7a8pfZGrQs6WfVO-kNdgNOfvkdi5CW/view?usp=sharing)  
+Trading with reinforcement learning - check [Paper](https://arxiv.org/abs/2002.11523)  
+<div align="center">
+<img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/Full_UML.png" width="500" alt= "Reinforcement Learning" />
+</div>
 
+
+## References  
+
+1. _Playing Atari with Deep Reinforcement Learning_, Mnih et al., 2013  
+2. _Human-level control through deep reinforcement learning_, Mnih et al., 2015  
+3. _Deep Reinforcement Learning with Double Q-learning_, van Hasselt et al., 2015  
+4. _Continuous control with deep reinforcement learning_, Lillicrap et al., 2015  
+5. _Asynchronous Methods for Deep Reinforcement Learning_, Mnih et al., 2016  
+6. _Continuous Deep Q-Learning with Model-based Acceleration_, Gu et al., 2016  
+7. _Learning Tetris Using the Noisy Cross-Entropy Method_, Szita et al., 2006  
+8. _Deep Reinforcement Learning (MLSS lecture notes)_, Schulman, 2016  
+9. _Dueling Network Architectures for Deep Reinforcement Learning_, Wang et al., 2016  
+10. _Reinforcement learning: An introduction_, Sutton and Barto, 2011  
+11. _Proximal Policy Optimization Algorithms_, Schulman et al., 2017  
 
 # What is included?  
-This repo includes implementation of Deep Recurrent Q Network (DRQN), Asynchronous Advantage Actor Critic (A3C), and Proximal Policy Optimization. All implementations are tested on Mac OS & Google Colab Cloud environment. Please be aware that all of the codes are still in the development stage.  
+This repo includes implementation of Deep Recurrent Q Network (DRQN), Asynchronous Advantage Actor Critic (A3C), and Proximal Policy Optimization (PPO). All implementations are tested on Mac OS & Google Colab Cloud environment. Please be aware that all of the codes are still in the development stage.  
 
 # Data  
 ****The testing data are all real TW stock data from web crawling system.****   
@@ -26,24 +43,17 @@ Company Description:
 # Results  
 
 <div align="center">
+<img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/training_plot.png" width="800" alt= "Training Result" />
+</div>
+
+<div align="center">
 <img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/plt__signal.png" width="800" alt= "Sell/Buy Signal" />
 </div>
 
 <div align="center">
-<img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/training_plot.png" width="800" alt= "Training Result" />
+<img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/plt__absolute_profit.png" width="800" alt= "Absolute Profit" />
 </div>
 
+## Contributing  
 
-## References  
-
-1. _Playing Atari with Deep Reinforcement Learning_, Mnih et al., 2013  
-2. _Human-level control through deep reinforcement learning_, Mnih et al., 2015  
-3. _Deep Reinforcement Learning with Double Q-learning_, van Hasselt et al., 2015  
-4. _Continuous control with deep reinforcement learning_, Lillicrap et al., 2015  
-5. _Asynchronous Methods for Deep Reinforcement Learning_, Mnih et al., 2016  
-6. _Continuous Deep Q-Learning with Model-based Acceleration_, Gu et al., 2016  
-7. _Learning Tetris Using the Noisy Cross-Entropy Method_, Szita et al., 2006  
-8. _Deep Reinforcement Learning (MLSS lecture notes)_, Schulman, 2016  
-9. _Dueling Network Architectures for Deep Reinforcement Learning_, Wang et al., 2016  
-10. _Reinforcement learning: An introduction_, Sutton and Barto, 2011  
-11. _Proximal Policy Optimization Algorithms_, Schulman et al., 2017  
+Programme is created by Calvin He `<kuancalvin2016@gmail.com>`.  
