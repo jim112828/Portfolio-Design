@@ -1,6 +1,6 @@
 # A3C Deep Reinforcement Learning - (Asynchronous Advantage Actor-Critic)  
 
-Trading Robot with reinforcement learning - check [Paper](https://arxiv.org/abs/2002.11523)  
+Trading Robot with reinforcement learning 
 <div align="center">
 <img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/Full_UML.png" width="700" alt= "Reinforcement Learning" />
 </div>
