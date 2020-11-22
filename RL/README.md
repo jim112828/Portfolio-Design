@@ -28,7 +28,8 @@ Asynchronous Advantage Actor Critic (A3C)
 Proximal Policy Optimization (PPO)   
   
   
-All implementations are tested on Mac OS & Google Colab Cloud environment. Please be aware that all of the codes are still in the development stage.  
+All implementations are tested on Mac OS & Google Colab Cloud environment.    
+Please be aware that all of the codes are still in the development stage.    
 
 # Data  
 ****The testing data are all real TW stock data from web crawling system.****   
@@ -49,14 +50,22 @@ Company Description:
 
 # Results  
 
+Candlestick   
+<div align="center">
+<img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/Candlestick.png" width="800" alt= "Candlestick" />
+</div>
+
+Training Result   
 <div align="center">
 <img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/training_plot.png" width="800" alt= "Training Result" />
 </div>
 
+Sell/Buy Signal    
 <div align="center">
 <img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/plt__signal.png" width="800" alt= "Sell/Buy Signal" />
 </div>
 
+Absolute Profit    
 <div align="center">
 <img src="https://github.com/ccalvin97/Portfolio-Design/blob/master/RL/graph/plt__absolute_profit.png" width="800" alt= "Absolute Profit" />
 </div>
