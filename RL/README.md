@@ -22,10 +22,10 @@ Trading Robot with reinforcement learning
 12. [Paper](https://arxiv.org/abs/2002.11523) - Using Reinforcement Learning in the Algorithmic Trading Problem, Evgeny Ponomarev, 2020
 
 # What is included?  
-This repo includes implementation of   
-Deep Recurrent Q Network (DRQN). 
-Asynchronous Advantage Actor Critic (A3C). 
-Proximal Policy Optimization (PPO). 
+This repo includes implementation:    
+Deep Recurrent Q Network (DRQN)    
+Asynchronous Advantage Actor Critic (A3C) 
+Proximal Policy Optimization (PPO)   
 All implementations are tested on Mac OS & Google Colab Cloud environment. Please be aware that all of the codes are still in the development stage.  
 
 # Data  
