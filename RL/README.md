@@ -24,8 +24,10 @@ Trading Robot with reinforcement learning
 # What is included?  
 This repo includes implementation:    
 Deep Recurrent Q Network (DRQN)    
-Asynchronous Advantage Actor Critic (A3C) 
+Asynchronous Advantage Actor Critic (A3C)   
 Proximal Policy Optimization (PPO)   
+  
+  
 All implementations are tested on Mac OS & Google Colab Cloud environment. Please be aware that all of the codes are still in the development stage.  
 
 # Data  
