@@ -19,6 +19,7 @@ Trading Robot with reinforcement learning - check [Paper](https://arxiv.org/abs/
 9. _Dueling Network Architectures for Deep Reinforcement Learning_, Wang et al., 2016  
 10. _Reinforcement learning: An introduction_, Sutton and Barto, 2011  
 11. _Proximal Policy Optimization Algorithms_, Schulman et al., 2017  
+12. [Paper](https://arxiv.org/abs/2002.11523) - Using Reinforcement Learning in the Algorithmic Trading Problem. 
 
 # What is included?  
 This repo includes implementation of Deep Recurrent Q Network (DRQN), Asynchronous Advantage Actor Critic (A3C), and Proximal Policy Optimization (PPO). All implementations are tested on Mac OS & Google Colab Cloud environment. Please be aware that all of the codes are still in the development stage.  
